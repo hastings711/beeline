@@ -1,6 +1,4 @@
 body {
     box-sizing: border-box;
-}
-.left_block {
-    display: flex;
+    font-family: 'Fira Sans', sans-serif;
 }
