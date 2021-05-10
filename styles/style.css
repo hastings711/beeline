@@ -2,3 +2,8 @@ body {
     box-sizing: border-box;
     font-family: 'Fira Sans', sans-serif;
 }
+
+.navbar_left {
+    display: flex;
+    justify-content: space-between;
+}
