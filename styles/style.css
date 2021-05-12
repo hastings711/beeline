@@ -1,9 +1,15 @@
-body {
-    box-sizing: border-box;
-    font-family: 'Fira Sans', sans-serif;
-}
-
-.navbar_left {
+.header {
     display: flex;
     justify-content: space-between;
+}
+.navbar_items {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
+ul {
+    list-style-type: none;
+}
+body {
+    background: #E5E5E5;
 }
